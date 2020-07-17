@@ -5,6 +5,8 @@ font-size: 20px;
 line-height: 30px;
 }
 
+/* Header Styles */
+
 header{
 	background-color: lightsalmon;
 	text-align: center;
@@ -27,6 +29,7 @@ header img{
     border: 20px solid coral;
 }
 
+/* Main Body Styles */
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -51,6 +54,8 @@ a{
 a:hover{
 	color: indianred;
 }
+
+/* Footer Styles */
 
 footer{
 	background-color: lightsalmon;
